@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PHOTOGRAPHY</title>
+        <link rel="stylesheet" type="text/css" href="softcovers.css" />
+        </head>
+    
+        
+    
+     <body style="background-image:url('web.jpg')">
+         
+        <nav>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="softcovers.html">SOFTCOVERS</a></li>
+                    <li><a href="hardcovers.html">HARDCOVERS</a></li>
+                </ul>
+            </nav>
+         
+         <span class="anchor" id="hardcovers"></span>
+	<div class="section">
+        <h2><b>HARDCOVER PRODUCTS</b></h2>
+	  <div class="gallery">
+	    <img src="imgs/street/street1.jpg" />
+	    <img src="imgs/street/street2.jpg" />
+	    <img src="imgs/street/street3.jpg" />
+	    <img src="imgs/street/street4.jpg" />
+	    <img src="imgs/street/street5.jpg" />
+	    <img src="imgs/street/street6.jpg" />
+	    
+	  </div>
+	</div>
+        </body>
+    
+</html>

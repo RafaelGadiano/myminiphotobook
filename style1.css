@@ -1,0 +1,100 @@
+<style >
+            .background-image{
+                height: 100%;
+                width: 100%;
+            }
+            body{
+                font-family: sans-serif;
+                
+
+            }
+            .top-bar{
+                text-align: center;
+            }
+            .container{
+                background-color: white;
+                width: 1080px;
+                height: 1200px;
+                margin: 0% auto;
+                padding: 10px;
+                border-radius: 30px;
+            }
+            header h1{
+                color: black;
+            }
+            nav{
+                background-color: lightgrey;
+                padding: 10px;
+                margin-bottom: 10px;
+                color: black;
+                text-decoration-style: solid;
+                text-align: center;
+            }
+            nav ul{
+                padding: 0px;
+                width: 1080px;
+            }
+            nav ul li{
+                list-style-type: none;
+                display: inline-block;
+            }
+            nav ul li a{
+                padding: 10px;
+                font-size: 20px;
+            }
+            nav ul li a:link{
+                color: black;
+                text-decoration: none;
+           }
+            nav ul li a:visited{
+                color: black;
+            }
+            nav ul li a:hover{
+                color: black;
+                background-color: lightcyan;
+            }
+            nav ul li a:active{
+                color: white;
+                background-color: black;
+            }
+            
+            aside{
+                float: left;
+                width: 240px;
+                background-color: beige;
+                height: 900px;
+                text-align: center;
+                margin-right: 20px;
+            }
+            .side img{
+                width: 200px;
+                height: 200px;
+            }
+        
+            article{
+                background-color: cornsilk;
+                float: right;
+                width: 850px;
+                height: 200px;
+                padding: 1-px;
+ 
+            }
+            
+            .content{
+                margin-bottom: 10px;
+            }
+            .gallery img {
+
+                width: 200px;
+                height: 200px;
+                padding: 10px;
+        
+            }
+            footer{
+                clear: both;
+                background-color: #2a363b;
+                color: white;
+                text-align: center;
+                padding: 10px 0px;
+            }
+        </style>
